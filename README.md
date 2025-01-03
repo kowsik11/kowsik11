@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Chinni Krishna Kowsik P</h1>
 <h3 align="center">A student committed to continuous learning and staying updated with the latest industry trends in cyber security, Networks and Data Science.</h3>
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning Ehtical_Hacking and Competitive Programming
 
 - 📫 How to reach me **kowsikperumalla@gmail.com**
 
