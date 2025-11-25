@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/kowsik11">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=800&lines=Full+Stack+Developer+%7C+Cybersecurity+Enthusiast;Building+AI-Powered+Tools+That+Solve+Real+Problems;Automation+%E2%9A%A1+Security+%F0%9F%94%92+Innovation+%F0%9F%9A%80;From+Concept+to+Code+%7C+From+Problem+to+Solution" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=800&lines=Full+Stack+Developer+%7C;Building+AI-Powered+Tools+That+Solve+Real+Problems;Automation+%E2%9A%A1+Security+%F0%9F%94%92+Innovation+%F0%9F%9A%80;From+Concept+to+Code+%7C+From+Problem+to+Solution" alt="Typing SVG" />
   </a>
 </p>
 
