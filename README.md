@@ -29,7 +29,7 @@
 - 🔄 OAuth2 authentication flow with FastAPI + React
 - 🎯 Real-time email classification and CRM automation
 
-### 📰 **TechCrunch ** — News Aggregation Platform
+### 📰 **TechCrunch** — News Aggregation Platform
 - 📱 Modern, responsive tech news platform
 - 🔍 Content management and article filtering system
 - ⚡ Built with Next.js for blazing-fast performance
@@ -88,12 +88,6 @@
 - 💾 Full-stack database management system
 - 🔧 Advanced query optimization and indexing
 - 📈 Performance benchmarking and analysis
-
-### 🛡️ **SQL Injection Detection System**
-- 🚨 Real-time SQL injection attack detection
-- 🤖 Machine learning-based pattern recognition
-- 📊 Threat analysis and logging system
-- 🔐 Automated response and prevention mechanisms
 
 ---
 
@@ -157,22 +151,6 @@ def my_approach():
 🔁 **User pain → prototype → iterate**  
 🧠 **AI-augmented workflows > manual processes**  
 ✂️ **Cut bloat, cut friction, keep shipping**  
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kowsik11&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kowsik11&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kowsik11&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
 
 ---
 
