@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/kowsik11">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=800&lines=Full+Stack+Developer+%7C;Building+AI-Powered+Tools+That+Solve+Real+Problems;Automation+%E2%9A%A1+Security+%F0%9F%94%92+Innovation+%F0%9F%9A%80;From+Concept+to+Code+%7C+From+Problem+to+Solution" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=800&lines=Full+Stack+Developer+%7C+Cloud+%26+AI+Automation;SaaS+Builder+%7C+End-to-End+Product+Engineer;AI+Integration+Specialist+%7C+Problem+Solver;Building+Tools+That+Solve+Real+Problems;From+Concept+to+Code+%7C+From+Problem+to+Solution" alt="Typing SVG" />
   </a>
 </p>
 
@@ -181,10 +181,6 @@ def my_approach():
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kowsik11&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-</p>
 
 <p align="center">
   <i>💡 "Code is poetry written in logic. Security is the shield that protects it."</i>
