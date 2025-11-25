@@ -29,7 +29,7 @@
 - 🔄 OAuth2 authentication flow with FastAPI + React
 - 🎯 Real-time email classification and CRM automation
 
-### 📰 **TechCrunch Clone** — News Aggregation Platform
+### 📰 **TechCrunch ** — News Aggregation Platform
 - 📱 Modern, responsive tech news platform
 - 🔍 Content management and article filtering system
 - ⚡ Built with Next.js for blazing-fast performance
